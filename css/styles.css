@@ -6161,6 +6161,12 @@ button.bg-dark:focus {
   background-color: #fff !important;
 }
 
+.bg-darkblvck{
+    background-color: #101010 !important;
+    border-color: #101010
+}
+
+
 .bg-black{
     background-color: #000;
 }
@@ -9829,6 +9835,11 @@ a.text-primary:hover, a.text-primary:focus {
 .text-secondary {
   color: #6c757d !important;
 }
+
+.text-porcelain {
+  color: #a2a2a2 !important;
+}
+
 
 a.text-secondary:hover, a.text-secondary:focus {
   color: #494f54 !important;
