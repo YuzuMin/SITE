@@ -84,6 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem;
 }
 
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -6072,6 +6073,19 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.vtuber-noises{
+    width: 300px;
+    border-radius: 17px;
+    background-color:#3AF0FE;
+}
+
+.vtuber-noises-img{
+    width: 282px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    border-radius: 17px;
+}
+
 .bg-primary {
   background-color: #E330BF !important;
 }
@@ -10174,6 +10188,11 @@ img::-moz-selection {
     margin-right: 0;
   }
 }
+
+.text-toleft{
+    text-align: left;
+}
+
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
