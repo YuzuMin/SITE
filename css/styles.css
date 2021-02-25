@@ -6076,7 +6076,6 @@ a.close.disabled {
 .vtuber-noises{
     width: 300px;
     border-radius: 17px;
-    background-color:#3AF0FE;
 }
 
 .vtuber-noises-img{
@@ -6084,6 +6083,22 @@ a.close.disabled {
     margin-top: 10px;
     margin-bottom: 0px;
     border-radius: 17px;
+}
+
+.bg-neonblue{
+    background-color:#3AF0FE;
+}
+
+.bg-kindaorange{
+    background-color:#ff8e72;
+}
+
+.bg-sortapurple{
+    background-color:#e17bff;
+}
+
+.bg-sortaporcelain{
+    background-color:#eaeaea;
 }
 
 .bg-primary {
