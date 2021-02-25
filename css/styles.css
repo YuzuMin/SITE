@@ -6073,6 +6073,16 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.gdrive-download{
+    width: 210px;
+    border-radius: 19px;
+}
+
+.view-ongithub{
+    width: 250px;
+    border-radius: 19px;
+}
+
 .vtuber-noises{
     width: 300px;
     border-radius: 17px;
@@ -10202,10 +10212,6 @@ img::-moz-selection {
   #mainNav .navbar-nav .nav-item:last-child {
     margin-right: 0;
   }
-}
-
-.text-toleft{
-    text-align: left;
 }
 
 header.masthead {
