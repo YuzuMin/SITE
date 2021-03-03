@@ -6111,6 +6111,12 @@ a.close.disabled {
     background-color:#eaeaea;
 }
 
+.bg-maybered{
+    background-color:#a74257;
+}
+
+.bg
+
 .bg-primary {
   background-color: #E330BF !important;
 }
@@ -6217,11 +6223,11 @@ button.bg-dark:focus {
     border-color: #000000;
 }
 .bg-yuzumint{
-    background-image:  linear-gradient(to top right, #E330BF , #2C6D19);
+    background-image:  linear-gradient(to top right, #9d00ff , #ff4646);
     
 }
 .bg-yuzumint1{
-    background-image:  linear-gradient(to bottom right, #E330BF , #2C6D19);
+    background-image:  linear-gradient(to bottom right, #ffd400 , #2C6D19);
 }
 .bg-bluepink{
     background-image:  linear-gradient(to bottom right , #AD30A5 35% , #3AF0FE);
