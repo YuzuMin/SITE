@@ -6104,7 +6104,7 @@ a.close.disabled {
 }
 
 .bg-sortapurple{
-    background-color:#e17bff;
+    background-color:#CB8CFF;
 }
 
 .bg-sortaporcelain{
@@ -6222,13 +6222,22 @@ button.bg-dark:focus {
     background-color: #000;
     border-color: #000000;
 }
-.bg-yuzumint{
+.bg-fruitmango{
     background-image:  linear-gradient(to top right, #9d00ff , #ff4646);
-    
 }
-.bg-yuzumint1{
+.bg-custBG1{
+    background-image:  linear-gradient(to top right, #ff4258 , #49ffe8);
+}
+.bg-custBG2{
+    background-image:  linear-gradient(to top right, #ff5266 , #4DA7E3);
+}
+
+
+
+.bg-yuzumint{
     background-image:  linear-gradient(to bottom right, #ffd400 , #2C6D19);
 }
+
 .bg-bluepink{
     background-image:  linear-gradient(to bottom right , #AD30A5 35% , #3AF0FE);
 }
