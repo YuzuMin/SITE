@@ -6231,6 +6231,9 @@ button.bg-dark:focus {
 .bg-custBG2{
     background-image:  linear-gradient(to top right, #ff5266 , #4DA7E3);
 }
+.bg-custBG3{
+    background-image:  linear-gradient(to bottom left, #ff4654 , #ffbc8e);
+}
 
 
 
