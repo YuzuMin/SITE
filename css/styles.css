@@ -67,6 +67,11 @@ body {
   color: #212529;
   text-align: left;
   background-color: #1f1f1f;
+
+}
+
+body.noscroll{
+    overflow: hidden; /* Hide scrollbars */
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6099,6 +6104,10 @@ a.close.disabled {
     background-color:#3AF0FE;
 }
 
+.bg-sortablue{
+    background-color:rgb(185, 250, 255);
+}
+
 .bg-kindaorange{
     background-color:#ff8e72;
 }
@@ -6114,8 +6123,6 @@ a.close.disabled {
 .bg-maybered{
     background-color:#a74257;
 }
-
-.bg
 
 .bg-primary {
   background-color: #E330BF !important;
@@ -6234,6 +6241,16 @@ button.bg-dark:focus {
 .bg-custBG3{
     background-image:  linear-gradient(to bottom left, #ff4654 , #ffbc8e);
 }
+.bg-custBG4{
+    background-image:  linear-gradient(to top right, #b6defd , #232abc);
+}
+.bg-custBG5{
+    background-image:  linear-gradient(to top right, #bdfaff , #3188ff);
+}
+
+
+
+
 
 
 
