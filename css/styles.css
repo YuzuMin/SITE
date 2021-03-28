@@ -6209,6 +6209,11 @@ button.bg-dark:focus {
 .bg-anime{
     background-image: url(../assets/img/imgr.png),url(../assets/img/imgl.png), linear-gradient(to bottom right , #AD30A5 35% , #3AF0FE);
 }
+
+.bg-VNA{
+    background-image: url(../assets/img/about/C++.png),url(../assets/img/imgl.png), linear-gradient(to bottom right , #AD30A5 35% , #3AF0FE);
+}
+
 .bg-white {
   background-color: #fff !important;
 }
@@ -6221,6 +6226,12 @@ button.bg-dark:focus {
 
 .bg-black{
     background-color: #000;
+}
+.bg-gold{
+    background-color: #e6b97e;
+}
+.bg-velvetred{
+    background-color: #ff4d58;
 }
 .bg-blvck{
     background-color: #1f1f1f;
@@ -6247,7 +6258,9 @@ button.bg-dark:focus {
 .bg-custBG5{
     background-image:  linear-gradient(to top right, #bdfaff , #3188ff);
 }
-
+.bg-custBG6{
+    background-image:  linear-gradient(to top right, #373161 , #C3004C);
+}
 
 
 
