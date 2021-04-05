@@ -6305,6 +6305,9 @@ button.bg-dark:focus {
 .bg-kiara{
     background-color: #4ad4b0;
 }
+.bg-nene{
+    background-color: #7eff7e;
+}
 
 
 
@@ -6333,7 +6336,9 @@ button.bg-dark:focus {
 .bg-custBG7{
     background-image:  linear-gradient(to bottom right, #ff3104, #f3cf14);
 }
-
+.bg-custBG8{
+    background-image:  linear-gradient(to top left, #ffe348, #f46071);
+}
 
 .bg-yuzumint{
     background-image:  linear-gradient(to top left, #ffd400 15%, #3a9021, #2d6d19, #256213);
