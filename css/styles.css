@@ -6308,8 +6308,9 @@ button.bg-dark:focus {
 .bg-nene{
     background-color: #7eff7e;
 }
-
-
+.bg-ame{
+    background-color: #79B3D8;
+}
 
 
 .bg-custBG0{
@@ -6339,6 +6340,11 @@ button.bg-dark:focus {
 .bg-custBG8{
     background-image:  linear-gradient(to top left, #ffe348, #f46071);
 }
+.bg-custBG9{
+    background-image:  linear-gradient(to top left, #fdaf45, #FBE6D3);
+}
+
+
 
 .bg-yuzumint{
     background-image:  linear-gradient(to top left, #ffd400 15%, #3a9021, #2d6d19, #256213);
