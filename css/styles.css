@@ -6311,6 +6311,9 @@ button.bg-dark:focus {
 .bg-ame{
     background-color: #79B3D8;
 }
+.bg-coco{
+    background-color: #e962f4;
+}
 
 
 .bg-custBG0{
@@ -6343,7 +6346,9 @@ button.bg-dark:focus {
 .bg-custBG9{
     background-image:  linear-gradient(to top left, #fdaf45, #FBE6D3);
 }
-
+.bg-custBG10{
+    background-image:  linear-gradient(to top left, #FAFB55, #F47E56);
+}
 
 
 .bg-yuzumint{
