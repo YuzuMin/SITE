@@ -6226,7 +6226,7 @@ button.bg-dark:focus {
 }
 
 .bg-VNA-img{
-    height: 100%;
+    height: 80%;
     width: 100%;
     object-fit: contain
 }
@@ -6368,6 +6368,18 @@ button.bg-dark:focus {
 
 .gear-icon{
     width: 120px;
+}
+
+.bg-btn{
+    width: 220px;
+}
+
+.bg-btn-s{
+    width: 158px;
+}
+
+.bg-btn-m{
+    width: 208px;
 }
 
 .bg-btn-l{
