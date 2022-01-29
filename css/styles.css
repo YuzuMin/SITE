@@ -6321,6 +6321,10 @@ button.bg-dark:focus {
     background-color: #e962f4;
 }
 
+.bg-rushia{
+    background-color: #db91ce;
+}
+
 
 .bg-custBG0{
     background-image:  linear-gradient(to top right, #9d00ff , #ff4646);
@@ -6355,7 +6359,9 @@ button.bg-dark:focus {
 .bg-custBG10{
     background-image:  linear-gradient(to top left, #FAFB55, #F47E56);
 }
-
+.bg-custBG11{
+    background-image:  linear-gradient(to top left, #4ce1ff, #12ffa2);
+}
 
 .bg-yuzumint{
     background-image:  linear-gradient(to top left, #ffd400 15%, #3a9021, #2d6d19, #256213);
